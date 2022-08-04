@@ -1,0 +1,12 @@
+@font-face {
+    font-family: fontX;
+    src: url(./font/x.ttf);
+}
+@font-face {
+    font-family: fontY;
+    src: url(./font/y.ttf);
+}
+body{
+    margin: 5px;
+    background-color: #3D348B;
+}
