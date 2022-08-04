@@ -10,3 +10,79 @@ body{
     margin: 5px;
     background-color: #3D348B;
 }
+.poema{
+    font-family: fontX;
+}
+.all{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 4%;
+    height: auto;
+    padding: 5%;
+    background-color: #F7B801;
+    box-shadow: 8px 8px 15px rgb(34, 33, 33);
+    border-radius: 5px;
+}
+.poema{
+    background-color: #7678ED;
+    border-radius: 5px;
+    box-shadow: 8px 8px 15px rgb(34, 33, 33);
+    display: flex;
+    margin: 4%;
+    height: 30vh;
+    width: 30vw;
+    padding: 5%;
+    justify-content: center;
+}
+p{
+    text-shadow: 2px 2px 8px #262156;
+    font-size:x-large;
+}
+button{
+    cursor: pointer;
+    background-color: #7678ED;
+    border-radius: 8px;
+    border-style:solid;
+    border-width:1.5px;
+    border-color: #3D348B;
+    box-shadow: 8px 8px 18px #3d348b96;
+ 
+    margin-top: 3%;
+    font-family: fontY;
+    width: 160px;   
+    height: 40px;   
+    color: #241827;
+    text-align: center;
+}
+button:hover{
+    color: #F7B801;
+    background-color: #3D348B;
+}
+h1{
+    font-family: fontY;
+    text-shadow: 2px 2px 8px #26215684;
+    color: #2f2967;
+}
+details{
+    cursor: pointer;
+    color: #3D348B;
+    margin-bottom: 25px;
+    font-family: fontY;
+    text-align: center;
+}
+details:hover{
+    color: #262156;
+}
+/*assinatura*/
+#assinatura{
+    margin: 10%;
+    font-family: fontY;
+    cursor: cell;
+}
+/*assinatura quando passa o mouse*/
+#assinatura:hover{
+    color: #3D348B;
+    transition: all 0.2s;
+}
