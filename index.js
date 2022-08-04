@@ -83,3 +83,44 @@ btn__poema10.addEventListener("click", () => {
     poema10.style.display = "flex";
     loc__btn10.style.display = "none";
 })
+
+poema1.addEventListener("click", () => {
+    poema1.style.display = "none";
+    loc__btn1.style.display = "flex";
+})
+poema2.addEventListener("click", () => {
+    poema2.style.display = "none";
+    loc__btn2.style.display = "flex";
+})
+poema3.addEventListener("click", () => {
+    poema3.style.display = "none";
+    loc__btn3.style.display = "flex";
+})
+poema4.addEventListener("click", () => {
+    poema4.style.display = "none";
+    loc__btn4.style.display = "flex";
+})
+poema5.addEventListener("click", () => {
+    poema5.style.display = "none";
+    loc__btn5.style.display = "flex";
+})
+poema6.addEventListener("click", () => {
+    poema6.style.display = "none";
+    loc__btn6.style.display = "flex";
+})
+poema7.addEventListener("click", () => {
+    poema7.style.display = "none";
+    loc__btn7.style.display = "flex";
+})
+poema8.addEventListener("click", () => {
+    poema8.style.display = "none";
+    loc__btn8.style.display = "flex";
+})
+poema9.addEventListener("click", () => {
+    poema9.style.display = "none";
+    loc__btn9.style.display = "flex";
+})
+poema10.addEventListener("click", () => {
+    poema10.style.display = "none";
+    loc__btn10.style.display = "flex";
+})
